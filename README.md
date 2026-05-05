@@ -23,14 +23,16 @@ Technical Details:
 - Handles API errors and edge cases (invalid city, missing data)
 
 Version Information:
-Version 1: Basic weather search by city name 
-           Displays current temperature and condition
+Version 1: 
+- Basic weather search by city name 
+- Displays current temperature and condition
 
-Version 2: Added GPS-based location detection
-           Implemented city autocomplete with nearest sorting
-           Added 7-day forecast with daily min/max temperatures
-           Integrated dynamic weather-based backgrounds
-           Added persistent storage for saved cities
+Version 2: 
+- Added GPS-based location detection
+- Implemented city autocomplete with nearest sorting
+- Added 7-day forecast with daily min/max temperatures
+- Integrated dynamic weather-based backgrounds
+- Added persistent storage for saved cities
 
 Notes:
 - Requires an OpenWeather API key
