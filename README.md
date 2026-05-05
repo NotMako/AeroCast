@@ -23,6 +23,7 @@ Technical Details:
 - Handles API errors and edge cases (invalid city, missing data)
 
 Version Information
+
 Version 1: 
 - Basic weather search by city name 
 - Displays current temperature and condition
