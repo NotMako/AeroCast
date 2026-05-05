@@ -20,7 +20,7 @@ export default function HomeScreen() {
   const [userLocation, setUserLocation] = useState(null);
   const [forecast, setForecast] = useState([]);
 
-  const API_KEY = 'e44c450afcbab1eea85d9d5144a06e8c';
+  const API_KEY = 'YOUR_API_KEY';
 
   useEffect(() => {
     getLocation();
